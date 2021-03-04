@@ -6,10 +6,12 @@ Content
 
 # Python Scripts:
 1- reco.py (Main Driver Script contain recognise face and eyes together)
+
 2- t.py 	(Track face movement)
 
 # Datasets:
 1- haarcascade_eye.xml
+
 2- haarcascade_frontalface_default.xml
 
 # 2 images creative common (cc) to be used for face and eye detection. 

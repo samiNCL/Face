@@ -8,7 +8,7 @@ Python Scripts:
 * reco.py (Main Driver Script contain recognise face and eyes together)
 * t.py 	(Track face movement)
 
-Datasets:
+Datasets(Provided within OpenCV samples):
 * haarcascade_eye.xml
 * haarcascade_frontalface_default.xml
 
@@ -29,5 +29,6 @@ I refer to these links
 * https://www.goeduhub.com/9946/face-detection-in-an-image-using-opencv
 
 
+If you use MacOS just place the folder in the desktop, Then drop run.sh file in the terminal window. Press Enter. 
 
 Thanks

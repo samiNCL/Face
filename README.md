@@ -14,9 +14,15 @@ Content
 
 2- haarcascade_frontalface_default.xml
 
-# 2 images creative common (cc) to be used for face and eye detection. 
+run.sh (Bash script to facilitate runing the app)
 
-# Note: WebCam is needed to track face movement. 
+Two images creative common (cc) -- to be used for face and eye detection. 
+
+# Notes: 
+WebCam is needed to track face movement.
+Also, the terminal should be inside the project directory
+
+Main used libraries OpenCV.org and Tkinter 
 
 
 I refer to these links

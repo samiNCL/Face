@@ -8,7 +8,7 @@ Python Scripts:
 * reco.py (Main Driver Script contain recognise face and eyes together)
 * t.py 	(Track face movement)
 
-Datasets(Provided within OpenCV samples):
+Datasets (From OpenCV samples):
 * haarcascade_eye.xml
 * haarcascade_frontalface_default.xml
 

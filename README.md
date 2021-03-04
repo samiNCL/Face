@@ -4,16 +4,16 @@
 
 # Content 
 
-* Python Scripts:
-** reco.py (Main Driver Script contain recognise face and eyes together)
-** t.py 	(Track face movement)
+Python Scripts:
+* reco.py (Main Driver Script contain recognise face and eyes together)
+* t.py 	(Track face movement)
 
-* Datasets:
-** haarcascade_eye.xml
-** haarcascade_frontalface_default.xml
+Datasets:
+* haarcascade_eye.xml
+* haarcascade_frontalface_default.xml
 
-* run.sh (Bash script to facilitate runing the app)
-* Two images creative common (cc) -- to be used for face and eye detection. 
+ run.sh (Bash script to facilitate runing the app)
+ Two images creative common (cc) -- to be used for face and eye detection. 
 
 # Notes: 
 * WebCam is needed to track face movement.
